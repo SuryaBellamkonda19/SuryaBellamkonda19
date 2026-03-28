@@ -130,7 +130,7 @@ Service-request management system
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
