@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Software+Developer;Data+Science+Enthusiast;React+%7C+AI+%7C+Analytics)
+
 # 👋 Hi, I'm Surya Bellamkonda
 
 🚀 Software Developer | Data Science Master's Student (Sweden)
@@ -56,3 +58,8 @@ Git • GitHub • REST APIs
 
 LinkedIn: https://linkedin.com/in/surya-bellamkonda1998
 Email: [suryabellamkonda19@gmail.com](mailto:suryabellamkonda19@gmail.com)
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SuryaBellamkonda19&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaBellamkonda19&layout=compact&theme=tokyonight)
