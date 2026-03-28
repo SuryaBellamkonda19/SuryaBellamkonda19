@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Surya Bellamkonda</h1>
 
 <p align="center">
-  🚀 Software Developer | 📊 Data Science Enthusiast | 🇸🇪 Based in Sweden
+  🚀 Full Stack Developer + Data Science Engineer | 🇸🇪 Sweden
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;React+%7C+AI+%7C+Analytics;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Engineer;React+%7C+AI+%7C+Analytics;Building+Scalable+Products" />
 </p>
 
 ---
@@ -16,11 +16,11 @@
 
 ## 🧠 About Me
 
-* 🎓 Master's in Data Science @ University of Skövde
-* 💻 3+ years as Software Developer @ Redblocks Solutions
+* 🎓 MSc Data Science @ University of Skövde
+* 💻 3+ years Software Developer @ Redblocks Solutions
 * 📊 Data Analyst Intern @ Anahata Interactive
-* 🌍 Passionate about AI, Analytics & Scalable Systems
-* ⚡ Strong mix of Development + Data Science
+* ⚡ Building scalable applications + data-driven solutions
+* 🌍 Based in Sweden
 
 ---
 
@@ -68,28 +68,33 @@
 
 ### 💳 Pumper Pal
 
-* Secure payment-enabled frontend using ReactJS, Redux & Tailwind CSS
-* Fully responsive and optimized UI
-
-### 🏥 CPD Health Network
-
-* Healthcare learning platform
-* Course management + user interaction
+Payment-enabled frontend built with React, Redux & Tailwind CSS
+✔ Responsive UI
+✔ Secure state management
 
 ### 💸 ExSplit
 
-* Expense-sharing application (Microservices Architecture)
-* Accurate financial calculations + interactive UI
+Microservices-based expense sharing application
+✔ Accurate financial calculations
+✔ Scalable architecture
 
 ### 🍔 Orderly
 
-* Food ordering application using Angular
-* Real-time tracking + payment workflows
+Angular-based food ordering system
+✔ Real-time order tracking
+✔ Payment workflow integration
+
+### 🏥 CPD Health Network
+
+Healthcare learning platform
+✔ Course management
+✔ User interaction features
 
 ### 🛠 CRM Platform
 
-* Service-request system with role-based dashboards
-* Workflow automation & request handling
+Service-request management system
+✔ Role-based dashboards
+✔ Workflow automation
 
 ---
 
@@ -97,21 +102,21 @@
 
 ## 📊 Data Science Projects
 
-* 📈 Customer Satisfaction Analysis (End-to-end ML lifecycle)
+* 📈 Customer Satisfaction Analysis (ML lifecycle)
 * 🍽️ Food Safety Prediction (Classification models)
-* 🤖 AI in Hiring (Ethical AI case study)
-* 🧠 NLP & Text Mining Analysis
-* 🔍 Clustering & Classification Models
+* 🤖 AI in Hiring (Ethical AI)
+* 🧠 NLP & Text Mining
+* 🔍 Clustering & Classification
 
 ---
 
-<!-- ====================== STATS ====================== -->
+<!-- ====================== STATS (FIXED) ====================== -->
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryaBellamkonda19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaBellamkonda19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryaBellamkonda19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaBellamkonda19&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
@@ -125,17 +130,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<!-- ====================== SNAKE ====================== -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/SuryaBellamkonda19/SuryaBellamkonda19/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -158,5 +153,5 @@
 <!-- ====================== FOOTER ====================== -->
 
 <p align="center">
-✨ "Building scalable apps with data-driven intelligence" ✨
+✨ Building scalable apps with data-driven intelligence ✨
 </p>
