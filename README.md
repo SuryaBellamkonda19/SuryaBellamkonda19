@@ -115,12 +115,15 @@ Service-request management system
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuryaBellamkonda19&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=SuryaBellamkonda19&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuryaBellamkonda19&show_icons=true&theme=tokyonight&hide_border=true" width="65%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuryaBellamkonda19&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=SuryaBellamkonda19&theme=tokyonight&hide_border=true" width="65%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuryaBellamkonda19&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
@@ -128,8 +131,9 @@ Service-request management system
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=algolia&no-frame=true&margin-w=12&row=1"/>
 </p>
+
 
 <!-- ====================== CONNECT ====================== -->
 
