@@ -112,27 +112,29 @@ Service-request management system
 
 <!-- ====================== STATS (FIXED) ====================== -->
 
-## 📈 GitHub Stats
+## 🚀 What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuryaBellamkonda19&show_icons=true&theme=tokyonight&hide_border=true" width="65%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuryaBellamkonda19&theme=tokyonight&hide_border=true" width="65%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuryaBellamkonda19&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
+* 🔭 Building scalable web applications using React & Angular
+* 📊 Working on data science and machine learning projects
+* 🧠 Exploring NLP, analytics & real-world AI applications
 
 ---
 
-## 🏆 Achievements
+## 🎯 Focus Areas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryaBellamkonda19&theme=algolia&no-frame=true&margin-w=12&row=1"/>
-</p>
+* 💻 Full Stack Development
+* 📊 Data Science & Machine Learning
+* ⚡ Scalable Systems & Performance
+* 🌍 Real-world problem solving
+
+---
+
+## 🏆 Highlights
+
+* 💼 3+ years experience as Software Developer
+* 📊 Hands-on Data Analyst experience
+* 🚀 Built multiple production-ready applications
+* 🎓 Master's in Data Science (Sweden)
 
 
 <!-- ====================== CONNECT ====================== -->
